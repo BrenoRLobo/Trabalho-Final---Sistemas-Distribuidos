@@ -48,10 +48,13 @@ cd Distribuido
 python client.py
 ```
 
-## 👥 Membros
+## 👥 Membros - Grupo 7
 
-| Nome Completo                      | Matrícula    | Atividades Realizadas                                                                |
-| ---------------------------------- | ------------ | ------------------------------------------------------------------------------------ |
-| **Breno Rodrigues Lobo de Araujo** | 2312999      | Implementação paralela e distribuída, testes de desempenho, apresentação e README.md |
-| **\[Nome do Membro 2]**            | \[Matrícula] | Implementação sequencial, apoio na versão paralela, coleta de dados de tempo         |
-| **\[Nome do Membro 3]**            | \[Matrícula] | Montagem da apresentação, gravação do vídeo e análise dos resultados obtidos         |
+| Nome Completo                  |
+| ------------------------------ |
+| Breno Rodrigues Lobo de Araujo |
+| Daniel Antunes de Almeida      |
+| Lucas Vinicius Zuque de Lima   |
+| Vinicius Mourão Ramos          |
+| Taynara Garcia Teixeira        |
+| Joao Guilherme Cogo Garcia     |
