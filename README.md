@@ -25,13 +25,25 @@ O problema consiste em encontrar o menor caminho possível que permita a um vend
 ```bash
 git clone https://github.com/BrenoRLobo/Trabalho-Final---Sistemas-Distribuidos.git
 cd Trabalho-Final---Sistemas-Distribuidos
+```
 
+### Executar Sequencial
+
+```bash
 cd Sequencial
 python tsp_sequencial.py
+```
 
+### Executar Paralelo
+
+```bash
 cd Paralelo
 python tsp_paralelo.py
+```
 
+### Executar Distribuído
+
+```bash
 cd Distribuido
 python server.py
 
