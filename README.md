@@ -50,11 +50,9 @@ python client.py
 
 ## 👥 Membros - Grupo 7
 
-| Nome Completo                  |
-| ------------------------------ |
-| Breno Rodrigues Lobo de Araujo |
-| Daniel Antunes de Almeida      |
-| Lucas Vinicius Zuque de Lima   |
-| Vinicius Mourão Ramos          |
-| Taynara Garcia Teixeira        |
-| Joao Guilherme Cogo Garcia     |
+- Breno Rodrigues Lobo de Araujo  
+- Daniel Antunes de Almeida  
+- Lucas Vinicius Zuque de Lima  
+- Vinicius Mourão Ramos  
+- Taynara Garcia Teixeira  
+- Joao Guilherme Cogo Garcia
