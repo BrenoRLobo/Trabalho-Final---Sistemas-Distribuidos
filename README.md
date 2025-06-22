@@ -15,9 +15,6 @@ O problema consiste em encontrar o menor caminho possível que permita a um vend
 - Ambiente: Windows 10
 - IDE: VS Code / Terminal
 
-## 📁 Estrutura do Projeto
-
-
 ## 🚀 Como Executar
 
 ### Clonar o repositório
@@ -49,5 +46,12 @@ python server.py
 
 cd Distribuido
 python client.py
+```
 
+## 👥 Membros
 
+| Nome Completo                      | Matrícula    | Atividades Realizadas                                                                |
+| ---------------------------------- | ------------ | ------------------------------------------------------------------------------------ |
+| **Breno Rodrigues Lobo de Araujo** | 2312999      | Implementação paralela e distribuída, testes de desempenho, apresentação e README.md |
+| **\[Nome do Membro 2]**            | \[Matrícula] | Implementação sequencial, apoio na versão paralela, coleta de dados de tempo         |
+| **\[Nome do Membro 3]**            | \[Matrícula] | Montagem da apresentação, gravação do vídeo e análise dos resultados obtidos         |
